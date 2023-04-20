@@ -1,0 +1,25 @@
+/* DEVELOPER: Sydney Dizon, IS117-004, Spring 2023 */
+/*
+White: #ffffff
+Silver: #adb5bd
+Dark Gray: #495057
+Black: #000000
+*/
+
+.darkbackground {
+    background: #495057; 
+    color: #adb5bd;
+  }
+  
+  .lightbackground {
+    background: #adb5bd; 
+    color: #ffffff;
+  }
+  
+  .shadow {
+    text-shadow: 2px 2px 4px #000000;
+  }
+  
+  .lightshadow {
+    text-shadow: 1px 1px 2px #000000;
+  }
